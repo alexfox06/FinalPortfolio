@@ -30,9 +30,11 @@ def divide(a, b, c, d):
    return a / b / c / d
 
 def pow(a, b):
+   
    return a**b #this is the exponants, so it would be a to the power of b (second number in this expression will always be defined as b)
 
 #basic opporations
+
 @bot.command()
 async def calculate(ctx, num1, operation, num2, num3, num4):
    #I can add more numbers if needed but this is what I have so far
