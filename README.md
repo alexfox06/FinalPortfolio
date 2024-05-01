@@ -9,24 +9,33 @@ _Description:_
 Equation Setup:
 - you have to put a space between every number or symbol in the equation
 - EXAMPLE ---> ( 5 * 4 ) + 6 = 26 (The parentheses will make  that thing in them come first. If there is no addition, subtraction, or division, the number in the parentheses will be multiplied by the number outside of them)
+  
 Multiply: *
+
 Divide: /
+
 Add: +
+
 Subtract: -
+
 Exponent: (number)^(number)
 
 _Pieces of Code:_
 
 **def add(a, b, c, d):
+
    return a + b + c + d
 
 def subtract(a, b, c, d):
+
    return a - b - c - d
 
 def multiply(a, b, c, d):
+
    return a * b * c * d
 
 def divide(a, b, c, d):
+
    return a / b / c / d
 
 def pow(a, b):
