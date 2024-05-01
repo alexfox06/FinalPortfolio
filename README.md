@@ -3,15 +3,16 @@
 
 _Equation Bot_
 Description:
+
 - This project is a discord bot that you can type an equation into and it will return the answer to the equation. The bot allows you to do PEMDAS, derivatives, and basic equations
 Equation Setup:
 - you have to put a space between every number or symbol in the equation
 - EXAMPLE ---> ( 5 * 4 ) + 6 = 26 (The parentheses will make  that thing in them come first. If there is no addition, subtraction, or division, the number in the parentheses will be multiplied by the number outside of them)
-  Multiply: *
-  Divide: /
-  Add: +
-  Subtract: -
-  Exponent: (number)^(number)
+Multiply: *
+Divide: /
+Add: +
+Subtract: -
+Exponent: (number)^(number)
 Pieces of Code:
 **def add(a, b, c, d):
    return a + b + c + d
@@ -38,6 +39,8 @@ async def calculate(ctx, num1, operation, num2, num3, num4):
    d = int (num4)**
 
    - This is the first portion of the code after the imports
+
 Type of code:
+
 - For this project, I used Python code. I wanted to try and use JavaScript but in the time that I had to do this project I ended up just using code that I already had an understanding of, and that I knew I could do quickly.
 Find this code [here](https://github.com/alexfox06/EquationBot)
