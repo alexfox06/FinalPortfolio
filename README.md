@@ -1,8 +1,8 @@
 # Alex Fox Final Portfolio
 **Projects:**
 
-_Equation Bot_
-Description:
+**Equation Bot**
+_Description:_
 
 - This project is a discord bot that you can type an equation into and it will return the answer to the equation. The bot allows you to do PEMDAS, derivatives, and basic equations
 Equation Setup:
@@ -13,7 +13,9 @@ Divide: /
 Add: +
 Subtract: -
 Exponent: (number)^(number)
-Pieces of Code:
+
+_Pieces of Code:_
+
 **def add(a, b, c, d):
    return a + b + c + d
 
@@ -40,7 +42,9 @@ async def calculate(ctx, num1, operation, num2, num3, num4):
 
    - This is the first portion of the code after the imports
 
-Type of code:
+_Type of code:_
 
 - For this project, I used Python code. I wanted to try and use JavaScript but in the time that I had to do this project I ended up just using code that I already had an understanding of, and that I knew I could do quickly.
+
+_The code:_
 Find this code [here](https://github.com/alexfox06/EquationBot)
