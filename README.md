@@ -2,6 +2,7 @@
 **Projects:**
 
 **Equation Bot**
+
 _Description:_
 
 - This project is a discord bot that you can type an equation into and it will return the answer to the equation. The bot allows you to do PEMDAS, derivatives, and basic equations
